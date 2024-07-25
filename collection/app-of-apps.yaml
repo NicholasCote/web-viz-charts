@@ -8,6 +8,6 @@ spec:
     namespace: ncote-test
   source:
     path: charts
-    repoURL: 'https://github.com/NicholasCote/web-viz-charts/blob/main/collection'
+    repoURL: 'https://github.com/NicholasCote/web-viz-charts/tree/main/collection'
     targetRevision: main
   project: ncote
